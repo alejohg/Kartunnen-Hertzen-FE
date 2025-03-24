@@ -2,6 +2,8 @@
 
 This project presents an analysis of a **fixed-end beam** using the **finite element method (FEM)**, based on the study by **Kartunnen & Von Hertzen** in their 2016 article, [Exact theory for a linearly elastic interior beam](https://doi.org/10.1016/j.ijsolstr.2015.09.010).
 
+**To review the details of the project, refer to:** [Presentacion](Presentacion.ipynb)
+
 ## Overview
 
 The analysis models a **2D solid beam under plane stress conditions**, incorporating:
